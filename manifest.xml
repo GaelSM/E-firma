@@ -6,17 +6,17 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Fechas E-Firma"/>
   <Description DefaultValue="Administración de fechas para la actualización de e-firmas"/>
-  <IconUrl DefaultValue="https://localhost:3000/assets/logo.jpg"/>
-  <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/logo.jpg"/>
+  <IconUrl DefaultValue="https://github.com/GaelSM/E-firma/assets/logo.jpg"/>
+  <HighResolutionIconUrl DefaultValue="https://github.com/GaelSM/E-firma/assets/logo.jpg"/>
   <SupportUrl DefaultValue="https://localhost:3000"/>
   <AppDomains>
-    <AppDomain>https://localhost:3000</AppDomain>
+    <AppDomain>https://github.com/GaelSM/E-firma</AppDomain>
   </AppDomains>
   <Hosts>
-    <Host Name="Workbook"/>
+    <https://github.com/GaelSM/E-firma
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://localhost:3000/taskpane.html"/>
+    <SourceLocation DefaultValue="https://github.com/GaelSM/E-firma/taskpane.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
@@ -62,14 +62,14 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://localhost:3000/assets/logo.jpg"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://localhost:3000/assets/logo.jpg"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://localhost:3000/assets/logo.jpg"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://github.com/GaelSM/E-firma/assets/logo.jpg"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://github.com/GaelSM/E-firma/assets/logo.jpg"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://github.com/GaelSM/E-firma/assets/logo.jpg"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812"/>
-        <bt:Url id="Commands.Url" DefaultValue="https://localhost:3000/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://github.com/GaelSM/E-firma/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://github.com/GaelSM/E-firma/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="Get started with your sample add-in!"/>
